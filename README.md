@@ -1,4 +1,4 @@
-# 用React+Redux+ES6写一个最傻瓜的Hello World
+# 用React+Redux+ES6写一个dome
 
 最近Redux+React似乎在前端圈子里越来越火了，然而即使是官方的文档也只给出了一个[TodoMVC的范例][1]，里面上百行的代码以及过多的新概念，对于很多初学者（包括我）来说依然很复杂。
 
@@ -6,7 +6,7 @@ google百度搜了搜，也一直没有找到简单傻瓜如同Hello World的快
 
 [点这里看DEMO][2]
 
-Github：https://github.com/starkwang/react-redux-es6-quickstart
+Github：https://github.com/hlwen/redux_dome
 
 
 
@@ -23,7 +23,7 @@ sudo npm install -g webpack
 创建一个文件夹，随便叫什么名字，比如`redux-test`。
 
 ```
-mkdir redux-test && cd redux-test
+mkdir redux-dome && cd redux-test
 ```
 然后用npm安装以下依赖包：
 

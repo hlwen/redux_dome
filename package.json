@@ -1,11 +1,11 @@
 {
-  "name": "redux-test",
+  "name": "redux-dome",
   "version": "1.0.0",
   "description": "",
   "main": "bundle.js",
   "scripts": {
     "test": "test",
-    "hot": "webpack-dev-server --inline -d --hot"
+    "start": "webpack-dev-server --inline -d --hot"
   },
   "dependencies": {
     "babel-core": "^6.4.5",
@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/starkwang/react-redux-es6-quickstart.git"
+    "url": "https://github.com/hlwen/redux_dome"
   },
   "author": "starkwang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/starkwang/react-redux-es6-quickstart/issues"
+    "url": "https://github.com/hlwen/redux_dome"
   },
-  "homepage": "https://github.com/starkwang/react-redux-es6-quickstart#readme"
+  "homepage": "https://github.com/hlwen/redux_dome"
 }
